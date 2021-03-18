@@ -1,3 +1,8 @@
+# Installing bulma
+- npm install bulma --save --save-exact
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
